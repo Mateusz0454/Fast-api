@@ -1,6 +1,13 @@
 # FastAPI Project Docs
 
-This is a simple FastAPI application that demonstrates basic features of the framework
+This is a simple FastAPI application that demonstrates basic features of the framework. 
+
+## Funtions
+
+- create user
+- get user
+- create task
+- get tasks
 
 ## Table of Contents
 
